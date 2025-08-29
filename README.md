@@ -66,6 +66,15 @@ art-news/
 * Evoluir para integração com **APIs reais**.
 
 ---
+## 🖼️ Imagens do Projeto
+
+Este diretório organiza as capturas de tela e protótipos usados durante o desenvolvimento do **Art & News**.
+
+### Estrutura
+- `/imagens/prints` → screenshots e prévias do projeto em execução  
+- `/imagens/wireframe` → wireframes e protótipos de baixa fidelidade  
+
+📌 Sempre que novos prints ou wireframes forem criados, serão adicionados nas suas respectivas pastas.
 
 ## 💡 Observações
 
